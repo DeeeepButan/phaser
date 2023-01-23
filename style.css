@@ -1,0 +1,13 @@
+h1{
+    font-size: 100px;
+    text-align: center;
+    margin:0;
+    padding:20px;
+  }
+a{
+    text-decoration-line: none;
+    color:aquamarine
+}
+body{
+    background-image: url('sky.png');  
+} 
